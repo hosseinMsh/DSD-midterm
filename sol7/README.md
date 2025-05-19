@@ -133,7 +133,7 @@ endmodule
 
 ### 📷 تصویر خروجی:
 
-![Simulation Result](sol7/image.png)
+![Simulation Result](image.png)
 
 ### تحلیل نمونه‌ها از تصویر شبیه‌سازی:
 
